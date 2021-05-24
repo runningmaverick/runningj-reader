@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runningmaverick.github.io/runningj-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:56:50.446Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T00:54:23.833Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://runningmaverick.github.io/runningj-reader/index.html"/>
     <link rel="self" href="https://runningmaverick.github.io/runningj-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.8.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
+        <updated>2021-05-23T05:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.8.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
+        <updated>2021-05-23T05:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
+Thank you: @LooperXX.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
         <id>https://css-tricks.com/?p=340991</id>
