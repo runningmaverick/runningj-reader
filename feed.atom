@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runningmaverick.github.io/runningj-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T01:14:50.791Z</updated>
+    <updated>2021-06-06T01:08:38.775Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://runningmaverick.github.io/runningj-reader/index.html"/>
     <link rel="self" href="https://runningmaverick.github.io/runningj-reader/feed.atom"/>
@@ -1519,16 +1519,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
         </author>
     </entry>
 </feed>
