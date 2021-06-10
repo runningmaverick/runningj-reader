@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340967",
+          "author": "Geoff Graham",
+          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
+          "publishedOn": "2021-06-09T20:37:00.000Z",
+          "wordCount": 1534,
+          "title": "A Cornucopia of Container Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341916",
+          "author": "Chris Coyier",
+          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/targetblank/",
+          "publishedOn": "2021-06-09T14:37:31.000Z",
+          "wordCount": 885,
+          "title": "target=blank"
+        },
+        {
           "id": "https://css-tricks.com/?p=341982",
           "author": "Todd Libby",
           "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -400,6 +418,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
+          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "publishedOn": "2021-06-09T10:30:00.000Z",
+          "wordCount": 2603,
+          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
@@ -706,15 +738,6 @@
           "publishedOn": "2021-05-11T13:30:00.000Z",
           "wordCount": 4874,
           "title": "A Primer On CSS Container Queries"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
         }
       ]
     },
@@ -723,6 +746,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b357ad11ffb70827ef9a90",
+          "author": null,
+          "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
+          "link": "https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/",
+          "publishedOn": "2021-06-09T21:55:16.000Z",
+          "wordCount": 3477,
+          "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
+        },
+        {
+          "id": "60c0ccbed3126007592d5781",
+          "author": null,
+          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
+          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
+          "publishedOn": "2021-06-09T19:45:20.000Z",
+          "wordCount": 1731,
+          "title": "The Skills You Need to Start Freelancing as a Developer"
+        },
+        {
+          "id": "60c10a1dd3126007592d5988",
+          "author": null,
+          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
+          "publishedOn": "2021-06-09T18:43:07.000Z",
+          "wordCount": 336,
+          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
+        },
+        {
+          "id": "60bfa4d4d3126007592d5160",
+          "author": null,
+          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
+          "publishedOn": "2021-06-08T23:47:43.000Z",
+          "wordCount": 9491,
+          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
+        },
         {
           "id": "60bfd986d3126007592d53a1",
           "author": null,
