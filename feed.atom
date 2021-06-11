@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runningmaverick.github.io/runningj-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:47:55.397Z</updated>
+    <updated>2021-06-11T00:42:30.524Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://runningmaverick.github.io/runningj-reader/index.html"/>
     <link rel="self" href="https://runningmaverick.github.io/runningj-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
+        <id>https://css-tricks.com/?p=342050</id>
+        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
+        <updated>2021-06-11T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
+The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html"/>
+        <updated>2021-06-11T00:15:31.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
+        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
+        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
+        <updated>2021-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equal Columns With Flexbox: It’s More Complicated Than You Might Think]]></title>
+        <id>https://css-tricks.com/?p=341894</id>
+        <link href="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/"/>
+        <updated>2021-06-10T14:34:22.000Z</updated>
+        <summary type="html"><![CDATA[As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.
+Let’s break those two down and see how they work together.
+The post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Headless CMS with Fauna and Vercel Functions]]></title>
+        <id>https://css-tricks.com/?p=342182</id>
+        <link href="https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/"/>
+        <updated>2021-06-10T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.
+The post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ikeh Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
+        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
+        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
+        <updated>2021-06-10T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Judis)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
         <id>60b357ad11ffb70827ef9a90</id>
@@ -1646,36 +1723,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。…]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
