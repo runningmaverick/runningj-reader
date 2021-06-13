@@ -798,15 +798,6 @@
           "publishedOn": "2021-05-17T11:30:00.000Z",
           "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
         }
       ]
     },
@@ -1505,15 +1496,6 @@
           "publishedOn": "2021-05-19T12:54:48.000Z",
           "wordCount": 333,
           "title": "中国经济的数字逻辑"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n首届中国国际消费品博览会在海口市开幕，开幕式有1000架无人机表演了不同的造型，照亮了夜空。（via）\n本周话题：内容渠道的贬值\n上周，美国的 Verizon 公司宣布，将以前收购的两个网站---- AOL 和 Yahoo ----一起打包卖掉，一共50亿美元。\n\n这是怎么回事呢？Verizon 是美国第二大通信商，运营 4G 和 5G 网络。几年前，它突然心血来潮，决定进军内容行业，不仅提供通信服务，还要提供内容。\n美国三大新闻门户网站，它一口气收购了第一名的 Yahoo（2017年45亿美元） 和第三名的 AOL（2015年44亿美元），另一家 MSN 属于微软，它动不了。\n\n买来以后，Verizon 就发现了真相，内容行业根本不行，非常难做，那些门户网站疲软不堪，业务毫无起色。去年又赶上了疫情，于是不想再撑了，决定认赔出局，抛售旗下的媒体资产，集中精力做无线通信。…",
-          "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html",
-          "publishedOn": "2021-05-14T00:17:14.000Z",
-          "wordCount": 912,
-          "title": "科技爱好者周刊（第 158 期）：内容渠道的贬值"
         }
       ]
     },
