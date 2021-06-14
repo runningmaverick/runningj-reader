@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runningmaverick.github.io/runningj-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T00:45:08.709Z</updated>
+    <updated>2021-06-14T00:41:19.140Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://runningmaverick.github.io/runningj-reader/index.html"/>
     <link rel="self" href="https://runningmaverick.github.io/runningj-reader/feed.atom"/>
@@ -1780,18 +1780,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
