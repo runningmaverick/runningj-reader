@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runningmaverick.github.io/runningj-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T00:43:18.531Z</updated>
+    <updated>2021-07-18T00:44:51.903Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://runningmaverick.github.io/runningj-reader/index.html"/>
     <link rel="self" href="https://runningmaverick.github.io/runningj-reader/feed.atom"/>
@@ -1680,42 +1680,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 163 期）：你的城市有多少张病床？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html"/>
-        <updated>2021-06-18T00:15:03.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
-        <id>https://css-tricks.com/?p=341948</id>
-        <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
-        <updated>2021-06-17T14:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
-Those …
-The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Louis Hoebregts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start Serving Optimized Images in Vue]]></title>
-        <id>https://css-tricks.com/?p=342257</id>
-        <link href="https://css-tricks.com/start-serving-optimized-images-in-vue/"/>
-        <updated>2021-06-17T14:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
-However, web performance is also a growing problem for most websites. And images are at the heart of many web …
-The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
         </author>
     </entry>
 </feed>
