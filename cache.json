@@ -463,24 +463,6 @@
           "publishedOn": "2021-06-21T14:32:45.000Z",
           "wordCount": 1598,
           "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341511",
-          "author": "Carter Li",
-          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
-          "publishedOn": "2021-06-18T20:38:59.000Z",
-          "wordCount": 974,
-          "title": "Using the `outline` Property as a Collapsable Border"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342326",
-          "author": "Chris Coyier",
-          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-typography-2/",
-          "publishedOn": "2021-06-18T13:44:17.000Z",
-          "wordCount": 784,
-          "title": "Links on Typography"
         }
       ]
     },
@@ -849,34 +831,6 @@
           "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
-          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
-          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3427,
-          "title": "An Alternative Voice UI To Voice Assistants",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
-          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
-          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3957,
-          "title": "Client-Side Routing In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1490,33 +1444,6 @@
           "publishedOn": "2021-06-21T16:36:14.000Z",
           "wordCount": 1153,
           "title": "How the CSS Position Property Works – Explained with Code Examples"
-        },
-        {
-          "id": "60b46dbd11ffb70827ef9dea",
-          "author": null,
-          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
-          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
-          "publishedOn": "2021-06-18T15:45:00.000Z",
-          "wordCount": 1613,
-          "title": "TCP vs UDP – Which Protocol is Faster?"
-        },
-        {
-          "id": "60cc5a904dc1a607ed7b4c54",
-          "author": null,
-          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
-          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
-          "publishedOn": "2021-06-18T15:43:56.000Z",
-          "wordCount": 906,
-          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
-        },
-        {
-          "id": "60cca3294dc1a607ed7b4c76",
-          "author": null,
-          "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
-          "link": "https://www.freecodecamp.org/news/understanding-sorting-algorithms/",
-          "publishedOn": "2021-06-18T13:56:04.000Z",
-          "wordCount": 13842,
-          "title": "Understanding Sorting Algorithms"
         }
       ]
     },
