@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runningmaverick.github.io/runningj-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T00:45:46.250Z</updated>
+    <updated>2021-07-22T00:45:04.029Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://runningmaverick.github.io/runningj-reader/index.html"/>
     <link rel="self" href="https://runningmaverick.github.io/runningj-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 CSS Tricks to Improve Your Next Coding Project (Cheatsheet)]]></title>
+        <id>60f55f3e66c61b07d458ee8c</id>
+        <link href="https://www.freecodecamp.org/news/10-css-tricks-for-your-next-coding-project/"/>
+        <updated>2021-07-21T22:39:42.000Z</updated>
+        <summary type="html"><![CDATA[The cascading nature of CSS sometimes makes it tough to understand and use. Developers at all levels often struggle while trying to figure out how to use certain features, and you'll often find yourself googling or asking a colleague for help.  So when you're having issues dealing with CSS, don’]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Use EditorConfig to Standardize Code Styles]]></title>
+        <id>60f5ecb966c61b07d458f479</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-editorconfig-to-standardize-code-styles/"/>
+        <updated>2021-07-21T21:28:55.000Z</updated>
+        <summary type="html"><![CDATA[You use EditorConfig to define formatting conventions for textual files in a project. It's great because it's widely supported, and it's not tied to any particular language, framework, or code editor. EditorConfig on its own is just a vendor-agnostic configuration file. It relies on third-party tools or integrations to implement]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet Another Mobile Context Menu With No Indication it Can Scroll]]></title>
+        <id>https://css-tricks.com/?p=344950</id>
+        <link href="https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/"/>
+        <updated>2021-07-21T21:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …
+The post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript proposal: JSON modules]]></title>
+        <id>https://css-tricks.com/?p=344948</id>
+        <link href="https://2ality.com/2021/06/json-modules.html"/>
+        <updated>2021-07-21T21:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. 
+import configData from './config-data.json' assert {type: 
+…
+The post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is about:blank? Chrome Blank Homepage Guide]]></title>
+        <id>60f81c021d2b080797b80d44</id>
+        <link href="https://www.freecodecamp.org/news/what-is-about-blank-chrome-blank-homepage-guide/"/>
+        <updated>2021-07-21T21:02:54.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of about:blank but don't understand what it is. Or you've seen it appear when you first load up a fresh new session in the Chrome browser – just an empty white page with about:blank showing in your address bar.  You might even see it when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-Code Tutorial – Build 3 Financial Apps]]></title>
+        <id>60f83b421d2b080797b80f10</id>
+        <link href="https://www.freecodecamp.org/news/low-code-tutorial/"/>
+        <updated>2021-07-21T15:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Low-Code can allow you to spin up apps fast and with out-of-the-box UI components. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Low-Code solutions by building 3 financial apps.  Ania Kubów developed this course. She is a ex-financial Broker turned software developer.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Context for Beginners – The Complete Guide (2021)]]></title>
+        <id>60f7eeda1d2b080797b80b31</id>
+        <link href="https://www.freecodecamp.org/news/react-context-for-beginners/"/>
+        <updated>2021-07-21T15:39:28.000Z</updated>
+        <summary type="html"><![CDATA[React context is an essential tool for every React developer to know. I lets you easily share state in your applications. In this comprehensive guide, we will cover what React context is, how to use it, when and when not to use context, and lots more. Even if you've never]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Freelance Developer Portfolios to Inspire You]]></title>
+        <id>60f5c9b866c61b07d458f2af</id>
+        <link href="https://www.freecodecamp.org/news/13-awesome-freelance-developer-portfolios/"/>
+        <updated>2021-07-21T15:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Article by @study_web_dev]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Background Image – With HTML Example Code]]></title>
+        <id>60f66b6f66c61b07d458f93c</id>
+        <link href="https://www.freecodecamp.org/news/css-background-image-with-html-example-code/"/>
+        <updated>2021-07-21T15:20:18.000Z</updated>
+        <summary type="html"><![CDATA[What a user sees on a website will impact how good their user experience is. It will also affect how easily they can use the whole site in general.  Adding images to the background of certain parts of a website is often more visually appealing and interesting than just changing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Step-By-Step Process for Turning Designs Into Code]]></title>
+        <id>https://css-tricks.com/?p=344337</id>
+        <link href="https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/"/>
+        <updated>2021-07-21T14:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …
+The post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Tools And Resources]]></title>
+        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
+        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
+        <updated>2021-07-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Nine States of Design]]></title>
         <id>https://css-tricks.com/?p=345062</id>
@@ -1691,120 +1806,6 @@ The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can s
 The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
-        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
-        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
-        <updated>2021-06-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
-        <id>60c81f774dc1a607ed7b2f66</id>
-        <link href="https://www.freecodecamp.org/news/how-to-exit-vim/"/>
-        <updated>2021-06-21T21:52:43.000Z</updated>
-        <summary type="html"><![CDATA[I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples]]></title>
-        <id>60bce157acb62507dd1d9f11</id>
-        <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
-        <updated>2021-06-21T21:25:11.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
-        <id>https://css-tricks.com/?p=342887</id>
-        <link href="https://web.dev/new-responsive/"/>
-        <updated>2021-06-21T21:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
-The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
-        <id>60cccd6e4dc1a607ed7b4f81</id>
-        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
-        <updated>2021-06-21T21:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
-        <id>60d0d0ff6e1a1407b6b0a506</id>
-        <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
-        <updated>2021-06-21T18:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
-        <id>60cda7104dc1a607ed7b5588</id>
-        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
-        <updated>2021-06-21T17:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Technical Guide to IPFS – the Decentralized Storage of Web3]]></title>
-        <id>60a55b37906c5207e3a7ea78</id>
-        <link href="https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/"/>
-        <updated>2021-06-21T16:38:36.000Z</updated>
-        <summary type="html"><![CDATA[But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the CSS Position Property Works – Explained with Code Examples]]></title>
-        <id>6063b9e19618b008528a9d9a</id>
-        <link href="https://www.freecodecamp.org/news/css-position-property-explained/"/>
-        <updated>2021-06-21T16:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
-        <id>https://css-tricks.com/?p=342448</id>
-        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
-        <updated>2021-06-21T14:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
-The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
-        <updated>2021-06-21T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
         </author>
     </entry>
 </feed>
